@@ -1,0 +1,77 @@
+﻿@{
+    ViewData["Title"] = "Visualizar Chamados";
+}
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+
+    <style>
+ 
+        body {
+            background-color: #6E6E6E;
+        }
+
+        /* Container principal para o conteúdo */
+        .container-chamados {
+            margin: 150px auto;
+            width: 90%; /* Largura máxima do container */
+            max-width: 500px; /* Limita a largura para leitura em telas grandes */
+            padding: 40px;
+            background-color: #494949; /* Fundo branco para o container */
+            border-radius: 12px; /* Cantos arredondados */
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Sombra suave */
+            text-align: center; /* CENTRALIZA O TEXTO INTERNO */
+            
+           
+        }
+
+            /* Título (h1) */
+            .container-chamados h1 {
+                color: #4a90e2; /* Cor azul destacada */
+                margin-bottom: 20px;
+                font-size: 1.8em;
+                font-weight: 700;
+            }
+
+            /* Parágrafo (p) */
+            .container-chamados p {
+                color: white;
+                line-height: 1.6;
+                margin-bottom: 30px;
+            }
+
+        /* Estilização do botão (se você adicionar um) */
+        .btn-download {
+            display: inline-block;
+            padding: 10px 25px;
+            background-color: #4a90e2; /* Cor de destaque */
+            color: lightgray;
+            text-decoration: none; /* Remove sublinhado do link */
+            border-radius: 6px;
+            font-weight: bold;
+            transition: background-color 0.3s ease; /* Transição suave no hover */
+        }
+
+            .btn-download:hover {
+                color: lightgray;
+                background-color: #357ABD; /* Cor mais escura ao passar o mouse */
+            }
+    </style>
+</head>
+
+<body>
+    <div class="container-chamados">
+        <h1>Visualizar Chamados</h1>
+        <p>
+            Para visualizar seus chamados, acesse a versão
+            mobile do sistema. Baixe o aplicativo para
+            acompanhar o andamento dos seus atendimentos.
+        </p>
+        <a href="#" class="btn-download">Baixar Aplicativo</a>
+    </div>
+</body>
+</html>

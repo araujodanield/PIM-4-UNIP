@@ -1,0 +1,165 @@
+C:\Users\lucas\source\repos\WebChamado\WebChamado\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\lucas\source\repos\WebChamado\WebChamado\bin\Debug\net8.0\appsettings.json
+C:\Users\lucas\source\repos\WebChamado\WebChamado\bin\Debug\net8.0\WebChamado.staticwebassets.runtime.json
+C:\Users\lucas\source\repos\WebChamado\WebChamado\bin\Debug\net8.0\WebChamado.staticwebassets.endpoints.json
+C:\Users\lucas\source\repos\WebChamado\WebChamado\bin\Debug\net8.0\WebChamado.exe
+C:\Users\lucas\source\repos\WebChamado\WebChamado\bin\Debug\net8.0\WebChamado.deps.json
+C:\Users\lucas\source\repos\WebChamado\WebChamado\bin\Debug\net8.0\WebChamado.runtimeconfig.json
+C:\Users\lucas\source\repos\WebChamado\WebChamado\bin\Debug\net8.0\WebChamado.dll
+C:\Users\lucas\source\repos\WebChamado\WebChamado\bin\Debug\net8.0\WebChamado.pdb
+C:\Users\lucas\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\lucas\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\WebChamado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\WebChamado.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\WebChamado.AssemblyInfo.cs
+C:\Users\lucas\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\WebChamado.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\WebChamado.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lucas\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\WebChamado.RazorAssemblyInfo.cache
+C:\Users\lucas\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\WebChamado.RazorAssemblyInfo.cs
+C:\Users\lucas\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\lucas\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\lucas\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\lucas\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\lucas\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\scopedcss\bundle\WebChamado.styles.css
+C:\Users\lucas\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\scopedcss\projectbundle\WebChamado.bundle.scp.css
+C:\Users\lucas\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\lucas\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\lucas\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\lucas\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\lucas\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\lucas\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\WebChamado.dll
+C:\Users\lucas\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\refint\WebChamado.dll
+C:\Users\lucas\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\WebChamado.pdb
+C:\Users\lucas\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\WebChamado.genruntimeconfig.cache
+C:\Users\lucas\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\ref\WebChamado.dll
+C:\Users\User\Desktop\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\User\Desktop\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\WebChamado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\WebChamado.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\WebChamado.AssemblyInfo.cs
+C:\Users\User\Desktop\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\WebChamado.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\WebChamado.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\WebChamado.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\WebChamado.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\WebChamado.dll
+C:\Users\User\Desktop\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\refint\WebChamado.dll
+C:\Users\User\Desktop\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\WebChamado.pdb
+C:\Users\User\Desktop\source\repos\WebChamado\WebChamado\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\User\Desktop\source\repos\WebChamado\WebChamado\bin\Debug\net8.0\appsettings.json
+C:\Users\User\Desktop\source\repos\WebChamado\WebChamado\bin\Debug\net8.0\WebChamado.staticwebassets.endpoints.json
+C:\Users\User\Desktop\source\repos\WebChamado\WebChamado\bin\Debug\net8.0\WebChamado.staticwebassets.runtime.json
+C:\Users\User\Desktop\source\repos\WebChamado\WebChamado\bin\Debug\net8.0\WebChamado.exe
+C:\Users\User\Desktop\source\repos\WebChamado\WebChamado\bin\Debug\net8.0\WebChamado.deps.json
+C:\Users\User\Desktop\source\repos\WebChamado\WebChamado\bin\Debug\net8.0\WebChamado.runtimeconfig.json
+C:\Users\User\Desktop\source\repos\WebChamado\WebChamado\bin\Debug\net8.0\WebChamado.dll
+C:\Users\User\Desktop\source\repos\WebChamado\WebChamado\bin\Debug\net8.0\WebChamado.pdb
+C:\Users\User\Desktop\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\User\Desktop\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\User\Desktop\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\User\Desktop\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\Desktop\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\scopedcss\bundle\WebChamado.styles.css
+C:\Users\User\Desktop\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\scopedcss\projectbundle\WebChamado.bundle.scp.css
+C:\Users\User\Desktop\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\User\Desktop\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\User\Desktop\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\User\Desktop\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\User\Desktop\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\User\Desktop\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\WebChamado.genruntimeconfig.cache
+C:\Users\User\Desktop\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\ref\WebChamado.dll
+C:\Users\lucas\Downloads\source\source\repos\WebChamado\WebChamado\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\lucas\Downloads\source\source\repos\WebChamado\WebChamado\bin\Debug\net8.0\appsettings.json
+C:\Users\lucas\Downloads\source\source\repos\WebChamado\WebChamado\bin\Debug\net8.0\WebChamado.staticwebassets.endpoints.json
+C:\Users\lucas\Downloads\source\source\repos\WebChamado\WebChamado\bin\Debug\net8.0\WebChamado.staticwebassets.runtime.json
+C:\Users\lucas\Downloads\source\source\repos\WebChamado\WebChamado\bin\Debug\net8.0\WebChamado.exe
+C:\Users\lucas\Downloads\source\source\repos\WebChamado\WebChamado\bin\Debug\net8.0\WebChamado.deps.json
+C:\Users\lucas\Downloads\source\source\repos\WebChamado\WebChamado\bin\Debug\net8.0\WebChamado.runtimeconfig.json
+C:\Users\lucas\Downloads\source\source\repos\WebChamado\WebChamado\bin\Debug\net8.0\WebChamado.dll
+C:\Users\lucas\Downloads\source\source\repos\WebChamado\WebChamado\bin\Debug\net8.0\WebChamado.pdb
+C:\Users\lucas\Downloads\source\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\lucas\Downloads\source\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\WebChamado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Downloads\source\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\WebChamado.AssemblyInfoInputs.cache
+C:\Users\lucas\Downloads\source\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\WebChamado.AssemblyInfo.cs
+C:\Users\lucas\Downloads\source\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\WebChamado.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\source\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\WebChamado.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lucas\Downloads\source\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\WebChamado.RazorAssemblyInfo.cache
+C:\Users\lucas\Downloads\source\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\WebChamado.RazorAssemblyInfo.cs
+C:\Users\lucas\Downloads\source\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\lucas\Downloads\source\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\lucas\Downloads\source\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\lucas\Downloads\source\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\lucas\Downloads\source\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\scopedcss\bundle\WebChamado.styles.css
+C:\Users\lucas\Downloads\source\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\scopedcss\projectbundle\WebChamado.bundle.scp.css
+C:\Users\lucas\Downloads\source\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\lucas\Downloads\source\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\lucas\Downloads\source\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\lucas\Downloads\source\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\lucas\Downloads\source\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\lucas\Downloads\source\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\WebChamado.dll
+C:\Users\lucas\Downloads\source\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\refint\WebChamado.dll
+C:\Users\lucas\Downloads\source\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\WebChamado.pdb
+C:\Users\lucas\Downloads\source\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\WebChamado.genruntimeconfig.cache
+C:\Users\lucas\Downloads\source\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\ref\WebChamado.dll
+C:\Users\User\Downloads\PIM Desk 1\source\repos\WebChamado\WebChamado\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\User\Downloads\PIM Desk 1\source\repos\WebChamado\WebChamado\bin\Debug\net8.0\appsettings.json
+C:\Users\User\Downloads\PIM Desk 1\source\repos\WebChamado\WebChamado\bin\Debug\net8.0\WebChamado.staticwebassets.endpoints.json
+C:\Users\User\Downloads\PIM Desk 1\source\repos\WebChamado\WebChamado\bin\Debug\net8.0\WebChamado.staticwebassets.runtime.json
+C:\Users\User\Downloads\PIM Desk 1\source\repos\WebChamado\WebChamado\bin\Debug\net8.0\WebChamado.exe
+C:\Users\User\Downloads\PIM Desk 1\source\repos\WebChamado\WebChamado\bin\Debug\net8.0\WebChamado.deps.json
+C:\Users\User\Downloads\PIM Desk 1\source\repos\WebChamado\WebChamado\bin\Debug\net8.0\WebChamado.runtimeconfig.json
+C:\Users\User\Downloads\PIM Desk 1\source\repos\WebChamado\WebChamado\bin\Debug\net8.0\WebChamado.dll
+C:\Users\User\Downloads\PIM Desk 1\source\repos\WebChamado\WebChamado\bin\Debug\net8.0\WebChamado.pdb
+C:\Users\User\Downloads\PIM Desk 1\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\User\Downloads\PIM Desk 1\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\WebChamado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\PIM Desk 1\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\WebChamado.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\PIM Desk 1\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\WebChamado.AssemblyInfo.cs
+C:\Users\User\Downloads\PIM Desk 1\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\WebChamado.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\PIM Desk 1\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\WebChamado.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Downloads\PIM Desk 1\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\WebChamado.RazorAssemblyInfo.cache
+C:\Users\User\Downloads\PIM Desk 1\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\WebChamado.RazorAssemblyInfo.cs
+C:\Users\User\Downloads\PIM Desk 1\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\User\Downloads\PIM Desk 1\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\User\Downloads\PIM Desk 1\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\User\Downloads\PIM Desk 1\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\Downloads\PIM Desk 1\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\scopedcss\bundle\WebChamado.styles.css
+C:\Users\User\Downloads\PIM Desk 1\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\scopedcss\projectbundle\WebChamado.bundle.scp.css
+C:\Users\User\Downloads\PIM Desk 1\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\User\Downloads\PIM Desk 1\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\User\Downloads\PIM Desk 1\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\User\Downloads\PIM Desk 1\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\User\Downloads\PIM Desk 1\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\User\Downloads\PIM Desk 1\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\WebChamado.dll
+C:\Users\User\Downloads\PIM Desk 1\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\refint\WebChamado.dll
+C:\Users\User\Downloads\PIM Desk 1\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\WebChamado.pdb
+C:\Users\User\Downloads\PIM Desk 1\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\WebChamado.genruntimeconfig.cache
+C:\Users\User\Downloads\PIM Desk 1\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\ref\WebChamado.dll
+C:\Users\User\Desktop\BackupPIM\PIM Desk 1\source\repos\WebChamado\WebChamado\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\User\Desktop\BackupPIM\PIM Desk 1\source\repos\WebChamado\WebChamado\bin\Debug\net8.0\appsettings.json
+C:\Users\User\Desktop\BackupPIM\PIM Desk 1\source\repos\WebChamado\WebChamado\bin\Debug\net8.0\WebChamado.staticwebassets.endpoints.json
+C:\Users\User\Desktop\BackupPIM\PIM Desk 1\source\repos\WebChamado\WebChamado\bin\Debug\net8.0\WebChamado.staticwebassets.runtime.json
+C:\Users\User\Desktop\BackupPIM\PIM Desk 1\source\repos\WebChamado\WebChamado\bin\Debug\net8.0\WebChamado.exe
+C:\Users\User\Desktop\BackupPIM\PIM Desk 1\source\repos\WebChamado\WebChamado\bin\Debug\net8.0\WebChamado.deps.json
+C:\Users\User\Desktop\BackupPIM\PIM Desk 1\source\repos\WebChamado\WebChamado\bin\Debug\net8.0\WebChamado.runtimeconfig.json
+C:\Users\User\Desktop\BackupPIM\PIM Desk 1\source\repos\WebChamado\WebChamado\bin\Debug\net8.0\WebChamado.dll
+C:\Users\User\Desktop\BackupPIM\PIM Desk 1\source\repos\WebChamado\WebChamado\bin\Debug\net8.0\WebChamado.pdb
+C:\Users\User\Desktop\BackupPIM\PIM Desk 1\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\User\Desktop\BackupPIM\PIM Desk 1\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\WebChamado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\BackupPIM\PIM Desk 1\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\WebChamado.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\BackupPIM\PIM Desk 1\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\WebChamado.AssemblyInfo.cs
+C:\Users\User\Desktop\BackupPIM\PIM Desk 1\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\WebChamado.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BackupPIM\PIM Desk 1\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\WebChamado.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\BackupPIM\PIM Desk 1\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\WebChamado.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\BackupPIM\PIM Desk 1\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\WebChamado.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\BackupPIM\PIM Desk 1\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\User\Desktop\BackupPIM\PIM Desk 1\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\User\Desktop\BackupPIM\PIM Desk 1\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\User\Desktop\BackupPIM\PIM Desk 1\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\Desktop\BackupPIM\PIM Desk 1\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\scopedcss\bundle\WebChamado.styles.css
+C:\Users\User\Desktop\BackupPIM\PIM Desk 1\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\scopedcss\projectbundle\WebChamado.bundle.scp.css
+C:\Users\User\Desktop\BackupPIM\PIM Desk 1\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\User\Desktop\BackupPIM\PIM Desk 1\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\User\Desktop\BackupPIM\PIM Desk 1\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\User\Desktop\BackupPIM\PIM Desk 1\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\User\Desktop\BackupPIM\PIM Desk 1\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\User\Desktop\BackupPIM\PIM Desk 1\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\WebChamado.dll
+C:\Users\User\Desktop\BackupPIM\PIM Desk 1\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\refint\WebChamado.dll
+C:\Users\User\Desktop\BackupPIM\PIM Desk 1\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\WebChamado.pdb
+C:\Users\User\Desktop\BackupPIM\PIM Desk 1\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\WebChamado.genruntimeconfig.cache
+C:\Users\User\Desktop\BackupPIM\PIM Desk 1\source\repos\WebChamado\WebChamado\obj\Debug\net8.0\ref\WebChamado.dll

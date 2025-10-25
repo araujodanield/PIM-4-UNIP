@@ -1,0 +1,95 @@
+﻿@model WebChamado.Models.AbrirChamadoModel
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <style>
+       
+        body {
+            
+            background-color: #494949;
+        }
+
+        .form-container {
+            max-width: 500px;
+            margin: 60px auto;
+            background: #6e6e6e;
+            padding: 30px 40px;
+            border-radius: 20px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        }
+
+        h2 {
+            text-align: center;
+            color: lightgray;
+        }
+
+        label {
+            font-weight: 600;
+            display: block;
+            margin-top: 18px;
+            margin-bottom: 6px;
+            color: lightgray;
+        }
+
+        input, textarea, select {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            font-size: 14px;
+        }
+
+        textarea {
+            resize: none;
+        }
+
+        .btn-enviar {
+            background-color: #363636;
+            color: white;
+            border: none;
+            padding: 12px;
+            width: 100%;
+            border-radius: 50px;
+            margin-top: 20px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+
+            .btn-enviar:hover {
+                background-color: #232323;
+                transform: scale(1.03);
+                color: #3a7bd5;
+            }
+    </style>
+</head>
+<body>
+    <div class="form-container">
+        <h2>Abrir Chamado</h2>
+
+        <form asp-controller="Chamado" asp-action="Abrir" method="post">
+            <label for="titulo">Título</label>
+            <input type="text" id="titulo" name="Titulo" required />
+
+            <label for="descricao">Descrição</label>
+            <textarea id="descricao" name="Descricao" rows="4" required></textarea>
+
+            <label for="categoria">Categoria</label>
+            <select id="categoria" name="FkCategoria" required>
+                <option value="">Selecione...</option>
+                <option value="1">Software</option>
+                <option value="2">Hardware</option>
+                <option value="3">Redes</option>
+                <option value="4">Sistema interno</option>
+                <option value="5">Acesso</option>
+            </select>
+
+            <button type="submit" class="btn-enviar">Enviar Chamado</button>
+        </form>
+    </div>
+</body>
+</html>

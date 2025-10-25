@@ -1,0 +1,68 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chamado Enviado</title>
+    <style>
+        
+        body {
+            background: #494949;
+        }
+
+        .success-container {
+            max-width: 700px;
+            margin: 150px auto;
+            text-align: center;
+            background: #6e6e6e;
+            padding: 40px 60px;
+            border-radius: 15px;
+        }
+
+        .success-icon {
+            font-size: 80px;
+            color: #28a745;
+            margin-bottom: 20px;
+        }
+
+        h2 {
+            color: lawngreen;
+            margin-bottom: 20px;
+        }
+
+        p {
+            color: white;
+            line-height: 1.6;
+            margin-bottom: 25px;
+        }
+
+        .btn {
+            background-color: #363636;
+            color: white;
+            border-radius: 8px;
+            padding: 12px 30px;
+            border-radius: 50px;
+            font-weight: bold;
+            display: inline-block;
+            margin: 5px;
+           transition: 0.0s;
+        }
+
+            .btn:hover {
+                background-color: #232323;
+                transform: scale(1.03);
+                color: #3a7bd5;
+            }
+    </style>
+</head>
+<body>
+    <div class="success-container">
+        <div class="success-icon">✅</div>
+        <h2>Chamado Enviado com Sucesso!</h2>
+        <p>Seu chamado foi registrado!</p>
+        <p>Baixe o aplicativo para visualizar as soluções ou acompanhar o status de atendimento do técnico</p>
+        <a asp-controller="Chamado" asp-action="AbrirChamado" class="btn">Abrir Novo Chamado</a>
+        <a asp-controller="Home" asp-action="Index" class="btn">Voltar ao Início</a>
+    </div>
+</body>
+</html>
