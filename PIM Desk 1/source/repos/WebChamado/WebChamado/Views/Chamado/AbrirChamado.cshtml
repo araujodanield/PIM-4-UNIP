@@ -73,10 +73,10 @@
 
         <form asp-controller="Chamado" asp-action="Abrir" method="post">
             <label for="titulo">Título</label>
-            <input type="text" id="titulo" name="Titulo" required />
+            <input type="text" id="titulo" name="Titulo" required maxlength="80" />
 
             <label for="descricao">Descrição</label>
-            <textarea id="descricao" name="Descricao" rows="4" required></textarea>
+            <textarea id="descricao" name="Descricao" rows="4" required maxlength="800"></textarea>
 
             <label for="categoria">Categoria</label>
             <select id="categoria" name="FkCategoria" required>

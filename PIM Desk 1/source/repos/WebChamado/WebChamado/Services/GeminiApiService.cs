@@ -45,14 +45,24 @@ namespace WebChamado.Services
         {
             // O PROMPT: Instruções claras para a IA sobre sua função de triagem
             string prompt = $@"
-                Você é uma IA de triagem de suporte técnico. Sua única função é analisar
-                o título e a descrição de um chamado e gerar uma resposta inicial de triagem em português.
-                A resposta deve ser profissional, com no máximo 5 frases, e deve tentar:
-                1. Identificar a natureza do problema (Hardware, Software, Rede ou Geral).
-                2. Sugerir a primeira etapa de solução ou diagnóstico (ex: 'Reinicie o sistema', 'Verifique a conexão').
+      Você é uma IA de triagem de help desk corporativo. Forneça uma resposta técnica inicial para o chamado de um funcionário.
 
-                Título do Chamado: '{titulo}'
-                Descrição do Problema: '{descricao}'
+REGRAS IMPORTANTES:
+1. Trate o usuário como funcionário de uma empresa (ambiente corporativo)
+2. Não sugira soluções que exijam abertura física de equipamentos
+3. Esta será a ÚNICA resposta automática - não mencione 'entre em contato novamente'
+4. Seja objetivo, profissional e respeitoso
+5. Respeite os direitos humanos: não discrimine, não ofenda, seja inclusivo
+6. Limite: máximo 200 caracteres
+7. NÃO use formatação markdown (**, ##, etc)
+8. NÃO identifique o tipo de problema no início da resposta
+9. Vá direto para as soluções
+
+FORMATO DA RESPOSTA:
+- Comece diretamente com as ações que o funcionário deve tomar
+- Numere as ações (1., 2., etc)
+- Use frases curtas e claras
+- Uma ação por linha
             ";
 
             // 1. Cria o payload JSON que será enviado
@@ -68,7 +78,7 @@ namespace WebChamado.Services
             var content = new StringContent(json, Encoding.UTF8, "application/json");
 
             // 2. Define o endpoint final: modelo (gemini-2.5-flash) + chave API
-            string endpoint = $"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent?key={GeminiApiKey}";
+            string endpoint = $"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={GeminiApiKey}";
 
             try
             {

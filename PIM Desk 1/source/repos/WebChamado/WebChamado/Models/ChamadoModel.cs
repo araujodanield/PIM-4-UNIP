@@ -11,11 +11,12 @@ namespace WebChamado.Models
         // ===================================
 
         [Required(ErrorMessage = "O título é obrigatório.")]
-        [StringLength(100)]
+        [StringLength(80, ErrorMessage = "O título deve ter no máximo 80 caracteres.")]
         [Display(Name = "Título do Chamado")]
         public string Titulo { get; set; }
 
         [Required(ErrorMessage = "A descrição é obrigatória.")]
+        [StringLength(800, ErrorMessage = "A descrição deve ter no máximo 800 caracteres.")]
         [Display(Name = "Descrição Detalhada")]
         public string Descricao { get; set; }
 
