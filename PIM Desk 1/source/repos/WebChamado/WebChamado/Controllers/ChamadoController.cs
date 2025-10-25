@@ -9,12 +9,19 @@ namespace WebChamado.Controllers
 {
     public class ChamadoController : Controller
     {
-        // 🟢 AÇÃO 1: DECLARAR E INJETAR O SERVIÇO
+        // 🟢 AÇÃO 1: DECLARAR E INJETAR OS SERVIÇOS
         private readonly ChamadoApiService _chamadoService;
+        private readonly GeminiApiService _geminiService;
+        private readonly RespostaIaApiService _respostaIaService;
 
-        public ChamadoController(ChamadoApiService chamadoService)
+        public ChamadoController(
+            ChamadoApiService chamadoService,
+            GeminiApiService geminiService,
+            RespostaIaApiService respostaIaService)
         {
             _chamadoService = chamadoService;
+            _geminiService = geminiService;
+            _respostaIaService = respostaIaService;
         }
 
         public IActionResult AbrirChamado()
@@ -39,11 +46,17 @@ namespace WebChamado.Controllers
             chamado.DataAbertura = dataAgoraUtc;
             chamado.DataEncerramento = dataAgoraUtc;
 
-            // 🟢 AÇÃO 5: CHAMAR O SERVIÇO DA API
-            bool sucesso = await _chamadoService.CriarChamadoAsync(chamado);
+            // 🟢 AÇÃO 5: CRIAR O CHAMADO NA API
+            int? idChamado = await _chamadoService.CriarChamadoAsync(chamado);
 
-            if (sucesso)
+            if (idChamado != null)
             {
+               
+                string respostaIA = await _geminiService.GerarTriagemAsync(chamado.Titulo, chamado.Descricao);
+
+                // 💾 AÇÃO 7: SALVAR RESPOSTA DA IA NO BANCO
+                await _respostaIaService.SalvarRespostaAsync(idChamado.Value, respostaIA);
+
                 return RedirectToAction("TicketEnviado");
             }
             else

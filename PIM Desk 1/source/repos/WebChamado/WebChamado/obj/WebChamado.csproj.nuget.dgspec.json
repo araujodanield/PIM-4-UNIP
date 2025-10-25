@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\BackupPIM\\PIM Desk 1\\source\\repos\\WebChamado\\WebChamado\\WebChamado.csproj": {}
+    "C:\\Users\\User\\Documents\\GitHub\\PIM-4-UNIP\\PIM Desk 1\\source\\repos\\WebChamado\\WebChamado\\WebChamado.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\BackupPIM\\PIM Desk 1\\source\\repos\\WebChamado\\WebChamado\\WebChamado.csproj": {
+    "C:\\Users\\User\\Documents\\GitHub\\PIM-4-UNIP\\PIM Desk 1\\source\\repos\\WebChamado\\WebChamado\\WebChamado.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\BackupPIM\\PIM Desk 1\\source\\repos\\WebChamado\\WebChamado\\WebChamado.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\PIM-4-UNIP\\PIM Desk 1\\source\\repos\\WebChamado\\WebChamado\\WebChamado.csproj",
         "projectName": "WebChamado",
-        "projectPath": "C:\\Users\\User\\Desktop\\BackupPIM\\PIM Desk 1\\source\\repos\\WebChamado\\WebChamado\\WebChamado.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\PIM-4-UNIP\\PIM Desk 1\\source\\repos\\WebChamado\\WebChamado\\WebChamado.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\BackupPIM\\PIM Desk 1\\source\\repos\\WebChamado\\WebChamado\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\PIM-4-UNIP\\PIM Desk 1\\source\\repos\\WebChamado\\WebChamado\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

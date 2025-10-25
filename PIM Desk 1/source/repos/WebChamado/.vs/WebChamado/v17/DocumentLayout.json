@@ -1,25 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\BackupPIM\\PIM Desk 1\\source\\repos\\WebChamado\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\PIM-4-UNIP\\PIM Desk 1\\source\\repos\\WebChamado\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B3AB92E-0811-483B-8FD0-588D4437204C}|WebChamado\\WebChamado.csproj|c:\\users\\user\\desktop\\backuppim\\pim desk 1\\source\\repos\\webchamado\\webchamado\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0B3AB92E-0811-483B-8FD0-588D4437204C}|WebChamado\\WebChamado.csproj|solutionrelative:webchamado\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0B3AB92E-0811-483B-8FD0-588D4437204C}|WebChamado\\WebChamado.csproj|c:\\users\\user\\documents\\github\\pim-4-unip\\pim desk 1\\source\\repos\\webchamado\\webchamado\\services\\geminiapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3AB92E-0811-483B-8FD0-588D4437204C}|WebChamado\\WebChamado.csproj|solutionrelative:webchamado\\services\\geminiapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B3AB92E-0811-483B-8FD0-588D4437204C}|WebChamado\\WebChamado.csproj|c:\\users\\user\\desktop\\backuppim\\pim desk 1\\source\\repos\\webchamado\\webchamado\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0B3AB92E-0811-483B-8FD0-588D4437204C}|WebChamado\\WebChamado.csproj|solutionrelative:webchamado\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0B3AB92E-0811-483B-8FD0-588D4437204C}|WebChamado\\WebChamado.csproj|c:\\users\\user\\documents\\github\\pim-4-unip\\pim desk 1\\source\\repos\\webchamado\\webchamado\\services\\chamadoapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3AB92E-0811-483B-8FD0-588D4437204C}|WebChamado\\WebChamado.csproj|solutionrelative:webchamado\\services\\chamadoapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B3AB92E-0811-483B-8FD0-588D4437204C}|WebChamado\\WebChamado.csproj|c:\\users\\user\\desktop\\backuppim\\pim desk 1\\source\\repos\\webchamado\\webchamado\\views\\chamado\\abrirchamado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0B3AB92E-0811-483B-8FD0-588D4437204C}|WebChamado\\WebChamado.csproj|c:\\users\\user\\documents\\github\\pim-4-unip\\pim desk 1\\source\\repos\\webchamado\\webchamado\\controllers\\chamadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3AB92E-0811-483B-8FD0-588D4437204C}|WebChamado\\WebChamado.csproj|solutionrelative:webchamado\\controllers\\chamadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3AB92E-0811-483B-8FD0-588D4437204C}|WebChamado\\WebChamado.csproj|c:\\users\\user\\documents\\github\\pim-4-unip\\pim desk 1\\source\\repos\\webchamado\\webchamado\\services\\respostaiaapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3AB92E-0811-483B-8FD0-588D4437204C}|WebChamado\\WebChamado.csproj|solutionrelative:webchamado\\services\\respostaiaapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3AB92E-0811-483B-8FD0-588D4437204C}|WebChamado\\WebChamado.csproj|c:\\users\\user\\documents\\github\\pim-4-unip\\pim desk 1\\source\\repos\\webchamado\\webchamado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3AB92E-0811-483B-8FD0-588D4437204C}|WebChamado\\WebChamado.csproj|solutionrelative:webchamado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3AB92E-0811-483B-8FD0-588D4437204C}|WebChamado\\WebChamado.csproj|c:\\users\\user\\documents\\github\\pim-4-unip\\pim desk 1\\source\\repos\\webchamado\\webchamado\\models\\respostasiamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3AB92E-0811-483B-8FD0-588D4437204C}|WebChamado\\WebChamado.csproj|solutionrelative:webchamado\\models\\respostasiamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3AB92E-0811-483B-8FD0-588D4437204C}|WebChamado\\WebChamado.csproj|c:\\users\\user\\documents\\github\\pim-4-unip\\pim desk 1\\source\\repos\\webchamado\\webchamado\\views\\chamado\\abrirchamado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0B3AB92E-0811-483B-8FD0-588D4437204C}|WebChamado\\WebChamado.csproj|solutionrelative:webchamado\\views\\chamado\\abrirchamado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B3AB92E-0811-483B-8FD0-588D4437204C}|WebChamado\\WebChamado.csproj|c:\\users\\user\\desktop\\backuppim\\pim desk 1\\source\\repos\\webchamado\\webchamado\\views\\chamado\\ticketenviado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0B3AB92E-0811-483B-8FD0-588D4437204C}|WebChamado\\WebChamado.csproj|c:\\users\\user\\documents\\github\\pim-4-unip\\pim desk 1\\source\\repos\\webchamado\\webchamado\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0B3AB92E-0811-483B-8FD0-588D4437204C}|WebChamado\\WebChamado.csproj|solutionrelative:webchamado\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3AB92E-0811-483B-8FD0-588D4437204C}|WebChamado\\WebChamado.csproj|c:\\users\\user\\documents\\github\\pim-4-unip\\pim desk 1\\source\\repos\\webchamado\\webchamado\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0B3AB92E-0811-483B-8FD0-588D4437204C}|WebChamado\\WebChamado.csproj|solutionrelative:webchamado\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3AB92E-0811-483B-8FD0-588D4437204C}|WebChamado\\WebChamado.csproj|c:\\users\\user\\documents\\github\\pim-4-unip\\pim desk 1\\source\\repos\\webchamado\\webchamado\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B3AB92E-0811-483B-8FD0-588D4437204C}|WebChamado\\WebChamado.csproj|solutionrelative:webchamado\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3AB92E-0811-483B-8FD0-588D4437204C}|WebChamado\\WebChamado.csproj|c:\\users\\user\\documents\\github\\pim-4-unip\\pim desk 1\\source\\repos\\webchamado\\webchamado\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B3AB92E-0811-483B-8FD0-588D4437204C}|WebChamado\\WebChamado.csproj|solutionrelative:webchamado\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3AB92E-0811-483B-8FD0-588D4437204C}|WebChamado\\WebChamado.csproj|c:\\users\\user\\documents\\github\\pim-4-unip\\pim desk 1\\source\\repos\\webchamado\\webchamado\\views\\chamado\\ticketenviado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0B3AB92E-0811-483B-8FD0-588D4437204C}|WebChamado\\WebChamado.csproj|solutionrelative:webchamado\\views\\chamado\\ticketenviado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B3AB92E-0811-483B-8FD0-588D4437204C}|WebChamado\\WebChamado.csproj|c:\\users\\user\\desktop\\backuppim\\pim desk 1\\source\\repos\\webchamado\\webchamado\\views\\home\\visualizar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0B3AB92E-0811-483B-8FD0-588D4437204C}|WebChamado\\WebChamado.csproj|c:\\users\\user\\documents\\github\\pim-4-unip\\pim desk 1\\source\\repos\\webchamado\\webchamado\\views\\home\\visualizar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0B3AB92E-0811-483B-8FD0-588D4437204C}|WebChamado\\WebChamado.csproj|solutionrelative:webchamado\\views\\home\\visualizar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -30,15 +62,132 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RespostaIaApiService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\PIM-4-UNIP\\PIM Desk 1\\source\\repos\\WebChamado\\WebChamado\\Services\\RespostaIaApiService.cs",
+              "RelativeDocumentMoniker": "WebChamado\\Services\\RespostaIaApiService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\PIM-4-UNIP\\PIM Desk 1\\source\\repos\\WebChamado\\WebChamado\\Services\\RespostaIaApiService.cs",
+              "RelativeToolTip": "WebChamado\\Services\\RespostaIaApiService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwDMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T18:10:35.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GeminiApiService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\PIM-4-UNIP\\PIM Desk 1\\source\\repos\\WebChamado\\WebChamado\\Services\\GeminiApiService.cs",
+              "RelativeDocumentMoniker": "WebChamado\\Services\\GeminiApiService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\PIM-4-UNIP\\PIM Desk 1\\source\\repos\\WebChamado\\WebChamado\\Services\\GeminiApiService.cs",
+              "RelativeToolTip": "WebChamado\\Services\\GeminiApiService.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAiwEYAAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T17:04:41.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\PIM-4-UNIP\\PIM Desk 1\\source\\repos\\WebChamado\\WebChamado\\Program.cs",
+              "RelativeDocumentMoniker": "WebChamado\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\PIM-4-UNIP\\PIM Desk 1\\source\\repos\\WebChamado\\WebChamado\\Program.cs",
+              "RelativeToolTip": "WebChamado\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T16:54:54.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChamadoApiService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\PIM-4-UNIP\\PIM Desk 1\\source\\repos\\WebChamado\\WebChamado\\Services\\ChamadoApiService.cs",
+              "RelativeDocumentMoniker": "WebChamado\\Services\\ChamadoApiService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\PIM-4-UNIP\\PIM Desk 1\\source\\repos\\WebChamado\\WebChamado\\Services\\ChamadoApiService.cs",
+              "RelativeToolTip": "WebChamado\\Services\\ChamadoApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T16:54:34.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChamadoController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\PIM-4-UNIP\\PIM Desk 1\\source\\repos\\WebChamado\\WebChamado\\Controllers\\ChamadoController.cs",
+              "RelativeDocumentMoniker": "WebChamado\\Controllers\\ChamadoController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\PIM-4-UNIP\\PIM Desk 1\\source\\repos\\WebChamado\\WebChamado\\Controllers\\ChamadoController.cs",
+              "RelativeToolTip": "WebChamado\\Controllers\\ChamadoController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowDUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T17:15:48.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RespostasIaModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\PIM-4-UNIP\\PIM Desk 1\\source\\repos\\WebChamado\\WebChamado\\Models\\RespostasIaModel.cs",
+              "RelativeDocumentMoniker": "WebChamado\\Models\\RespostasIaModel.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\PIM-4-UNIP\\PIM Desk 1\\source\\repos\\WebChamado\\WebChamado\\Models\\RespostasIaModel.cs",
+              "RelativeToolTip": "WebChamado\\Models\\RespostasIaModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T17:22:25.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AbrirChamado.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\PIM-4-UNIP\\PIM Desk 1\\source\\repos\\WebChamado\\WebChamado\\Views\\Chamado\\AbrirChamado.cshtml",
+              "RelativeDocumentMoniker": "WebChamado\\Views\\Chamado\\AbrirChamado.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\PIM-4-UNIP\\PIM Desk 1\\source\\repos\\WebChamado\\WebChamado\\Views\\Chamado\\AbrirChamado.cshtml",
+              "RelativeToolTip": "WebChamado\\Views\\Chamado\\AbrirChamado.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T03:34:28.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\PIM-4-UNIP\\PIM Desk 1\\source\\repos\\WebChamado\\WebChamado\\appsettings.json",
+              "RelativeDocumentMoniker": "WebChamado\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\PIM-4-UNIP\\PIM Desk 1\\source\\repos\\WebChamado\\WebChamado\\appsettings.json",
+              "RelativeToolTip": "WebChamado\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-25T16:57:13.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\PIM-4-UNIP\\PIM Desk 1\\source\\repos\\WebChamado\\WebChamado\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebChamado\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\PIM-4-UNIP\\PIM Desk 1\\source\\repos\\WebChamado\\WebChamado\\appsettings.Development.json",
+              "RelativeToolTip": "WebChamado\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-25T16:54:29.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\BackupPIM\\PIM Desk 1\\source\\repos\\WebChamado\\WebChamado\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\PIM-4-UNIP\\PIM Desk 1\\source\\repos\\WebChamado\\WebChamado\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebChamado\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\BackupPIM\\PIM Desk 1\\source\\repos\\WebChamado\\WebChamado\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\PIM-4-UNIP\\PIM Desk 1\\source\\repos\\WebChamado\\WebChamado\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "WebChamado\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAACQAAAAAAAAAAAAiwFoAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -47,51 +196,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\BackupPIM\\PIM Desk 1\\source\\repos\\WebChamado\\WebChamado\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\PIM-4-UNIP\\PIM Desk 1\\source\\repos\\WebChamado\\WebChamado\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "WebChamado\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\BackupPIM\\PIM Desk 1\\source\\repos\\WebChamado\\WebChamado\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\PIM-4-UNIP\\PIM Desk 1\\source\\repos\\WebChamado\\WebChamado\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "WebChamado\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAIBJwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T03:56:22Z"
+              "WhenOpened": "2025-10-24T03:56:22Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "Visualizar.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\BackupPIM\\PIM Desk 1\\source\\repos\\WebChamado\\WebChamado\\Views\\Home\\Visualizar.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\PIM-4-UNIP\\PIM Desk 1\\source\\repos\\WebChamado\\WebChamado\\Views\\Home\\Visualizar.cshtml",
               "RelativeDocumentMoniker": "WebChamado\\Views\\Home\\Visualizar.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\BackupPIM\\PIM Desk 1\\source\\repos\\WebChamado\\WebChamado\\Views\\Home\\Visualizar.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\PIM-4-UNIP\\PIM Desk 1\\source\\repos\\WebChamado\\WebChamado\\Views\\Home\\Visualizar.cshtml",
               "RelativeToolTip": "WebChamado\\Views\\Home\\Visualizar.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T03:54:47.657Z"
+              "WhenOpened": "2025-10-24T03:54:47.657Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AbrirChamado.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\BackupPIM\\PIM Desk 1\\source\\repos\\WebChamado\\WebChamado\\Views\\Chamado\\AbrirChamado.cshtml",
-              "RelativeDocumentMoniker": "WebChamado\\Views\\Chamado\\AbrirChamado.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\BackupPIM\\PIM Desk 1\\source\\repos\\WebChamado\\WebChamado\\Views\\Chamado\\AbrirChamado.cshtml",
-              "RelativeToolTip": "WebChamado\\Views\\Chamado\\AbrirChamado.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T03:34:28.05Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "TicketEnviado.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\BackupPIM\\PIM Desk 1\\source\\repos\\WebChamado\\WebChamado\\Views\\Chamado\\TicketEnviado.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\PIM-4-UNIP\\PIM Desk 1\\source\\repos\\WebChamado\\WebChamado\\Views\\Chamado\\TicketEnviado.cshtml",
               "RelativeDocumentMoniker": "WebChamado\\Views\\Chamado\\TicketEnviado.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\BackupPIM\\PIM Desk 1\\source\\repos\\WebChamado\\WebChamado\\Views\\Chamado\\TicketEnviado.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\PIM-4-UNIP\\PIM Desk 1\\source\\repos\\WebChamado\\WebChamado\\Views\\Chamado\\TicketEnviado.cshtml",
               "RelativeToolTip": "WebChamado\\Views\\Chamado\\TicketEnviado.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T03:27:22.15Z"
+              "WhenOpened": "2025-10-24T03:27:22.15Z",
+              "EditorCaption": ""
             }
           ]
         }
