@@ -35,54 +35,52 @@ namespace WebChamado.Services
 
                 HttpResponseMessage response = await _httpClient.PostAsync(endpoint, content);
 
-                Console.WriteLine($"📥 Status da API: {response.StatusCode}");
+                Console.WriteLine($" Status da API: {response.StatusCode}");
 
                 if (response.IsSuccessStatusCode)
                 {
                     string responseBody = await response.Content.ReadAsStringAsync();
                     Console.WriteLine($"✅ Chamado criado com sucesso!");
 
-                    // 🔧 GAMBIARRA: Buscar o último chamado criado
+                    
                     int? ultimoId = await BuscarUltimoChamadoCriadoAsync(chamadoData.FkUsuario);
 
                     if (ultimoId != null)
                     {
-                        Console.WriteLine($"✅ ID do chamado obtido: #{ultimoId}");
+                        Console.WriteLine($" ID do chamado obtido: #{ultimoId}");
                         return ultimoId;
                     }
                     else
                     {
-                        Console.WriteLine($"❌ Não foi possível obter o ID do chamado");
+                        Console.WriteLine($"Não foi possível obter o ID do chamado");
                         return null;
                     }
                 }
 
                 var errorContent = await response.Content.ReadAsStringAsync();
-                Console.WriteLine($"❌ Erro da API: {errorContent}");
+                Console.WriteLine($" Erro da API: {errorContent}");
                 return null;
             }
             catch (HttpRequestException httpEx)
             {
-                Console.WriteLine($"❌ Erro de conexão com a API: {httpEx.Message}");
+                Console.WriteLine($" Erro de conexão com a API: {httpEx.Message}");
                 return null;
             }
             catch (Exception ex)
             {
-                Console.WriteLine($"❌ Erro ao criar chamado: {ex.Message}");
+                Console.WriteLine($" Erro ao criar chamado: {ex.Message}");
                 return null;
             }
         }
 
-        /// <summary>
-        /// 🔧 GAMBIARRA: Busca o último chamado criado pelo usuário
-        /// </summary>
+
         private async Task<int?> BuscarUltimoChamadoCriadoAsync(int idUsuario)
         {
             try
             {
-                Console.WriteLine($"🔍 Buscando último chamado do usuário #{idUsuario}...");
+                Console.WriteLine($" Buscando último chamado do usuário #{idUsuario}...");
 
-                // Espera um pouco para garantir que o banco processou o INSERT
+                
                 await Task.Delay(500);
 
                 var response = await _httpClient.GetAsync("chamados");
@@ -96,7 +94,7 @@ namespace WebChamado.Services
 
                     if (chamados != null && chamados.Count > 0)
                     {
-                        // Filtra os chamados do usuário e pega o último (maior ID)
+                        
                         var chamadosDoUsuario = chamados
                             .Where(c => c.ContainsKey("fk_usuario") && c["fk_usuario"].GetInt32() == idUsuario)
                             .OrderByDescending(c => c.ContainsKey("id_chamado") ? c["id_chamado"].GetInt32() : 0)
@@ -117,7 +115,7 @@ namespace WebChamado.Services
             }
             catch (Exception ex)
             {
-                Console.WriteLine($"❌ Erro ao buscar último chamado: {ex.Message}");
+                Console.WriteLine($" Erro ao buscar último chamado: {ex.Message}");
                 return null;
             }
         }

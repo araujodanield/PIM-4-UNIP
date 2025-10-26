@@ -65,7 +65,7 @@ FORMATO DA RESPOSTA:
 - Uma ação por linha
             ";
 
-            // 1. Cria o payload JSON que será enviado
+            
             var requestData = new GeminiRequest
             {
                 contents = new[]
@@ -77,25 +77,25 @@ FORMATO DA RESPOSTA:
             var json = JsonSerializer.Serialize(requestData);
             var content = new StringContent(json, Encoding.UTF8, "application/json");
 
-            // 2. Define o endpoint final: modelo (gemini-2.5-flash) + chave API
+            //  Define o endpoint final: modelo (gemini-2.5-flash) + chave API
             string endpoint = $"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={GeminiApiKey}";
 
             try
             {
                 Console.WriteLine("Gerando triagem com Gemini...");
-                // 3. Envia a requisição POST
+                
                 HttpResponseMessage response = await _httpClient.PostAsync(endpoint, content);
 
-                // Se o status HTTP não for 2xx (ex: 400 Bad Request ou 500 Server Error), lança exceção
+               
                 response.EnsureSuccessStatusCode();
 
                 string responseBody = await response.Content.ReadAsStringAsync();
 
-                // 4. Desserializa a resposta JSON
+                
                 var options = new JsonSerializerOptions { PropertyNameCaseInsensitive = true };
                 var geminiResponse = JsonSerializer.Deserialize<GeminiResponse>(responseBody, options);
 
-                // 5. Extrai o texto da resposta
+                
                 if (geminiResponse?.candidates?.Length > 0 && geminiResponse.candidates[0].content.parts.Length > 0)
                 {
                     return geminiResponse.candidates[0].content.parts[0].text.Trim();
@@ -106,7 +106,7 @@ FORMATO DA RESPOSTA:
             catch (Exception ex)
             {
                 Console.WriteLine($"Erro na API do Gemini: {ex.Message}");
-                // Retorna uma resposta segura em caso de falha na comunicação
+               
                 return "Não foi possível realizar a triagem automática. O chamado será revisado por um técnico.";
             }
         }

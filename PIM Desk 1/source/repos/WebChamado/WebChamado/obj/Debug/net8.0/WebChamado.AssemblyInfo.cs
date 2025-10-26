@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebChamado")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e492f87205b6790d5c9eaf0e53cf9b2aa33a48c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+508adfe87732951ea3311188b66bf879ac525bcc")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebChamado")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebChamado")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

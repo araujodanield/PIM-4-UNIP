@@ -19,7 +19,7 @@ namespace WebChamado.Controllers
             return View();
         }
 
-        // Página para visualizar informações gerais (ou outra funcionalidade)
+        // Página para visualizar informações gerais
         public IActionResult Visualizar()
         {
             return View();

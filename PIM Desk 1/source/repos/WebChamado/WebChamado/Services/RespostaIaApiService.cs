@@ -15,14 +15,14 @@ namespace WebChamado.Services
             _httpClient = httpClient;
         }
 
-        /// <summary>
+        
         /// Salva a resposta da IA no banco de dados através da API
-        /// </summary>
+       
         public async Task<bool> SalvarRespostaAsync(int idChamado, string respostaIA)
         {
             var endpoint = "respostas-ia";
 
-            // Monta o objeto com os dados
+           
             var respostaData = new
             {
                 fk_chamado = idChamado,
@@ -55,18 +55,18 @@ namespace WebChamado.Services
                 else
                 {
                     var errorContent = await response.Content.ReadAsStringAsync();
-                    Console.WriteLine($"❌ Erro ao salvar resposta IA: {errorContent}");
+                    Console.WriteLine($" Erro ao salvar resposta IA: {errorContent}");
                     return false;
                 }
             }
             catch (HttpRequestException httpEx)
             {
-                Console.WriteLine($"❌ Erro de conexão ao salvar resposta IA: {httpEx.Message}");
+                Console.WriteLine($" Erro de conexão ao salvar resposta IA: {httpEx.Message}");
                 return false;
             }
             catch (Exception ex)
             {
-                Console.WriteLine($"❌ Erro ao salvar resposta IA: {ex.Message}");
+                Console.WriteLine($" Erro ao salvar resposta IA: {ex.Message}");
                 return false;
             }
         }
