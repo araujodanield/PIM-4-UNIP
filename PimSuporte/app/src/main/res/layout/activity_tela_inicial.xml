@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".Tela_Inicial">
+
+    <TextView
+        android:id="@+id/pagina_inicial"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:background="@color/simple_grey"
+        android:gravity="center"
+        android:padding="16dp"
+        android:text="@string/página_inicial"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <View
+        android:id="@+id/divisor_horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/greyblack"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/pagina_inicial" />
+
+    <TextView
+        android:id="@+id/ContainerComponents"
+        style="@style/ContainerUser"
+        android:layout_width="377dp"
+        android:layout_height="51dp"
+        android:layout_marginTop="28dp"
+        android:background="@drawable/user_exibition"
+        android:gravity="center"
+        android:padding="16dp"
+        android:text="@string/seja_bem_vindo"
+        android:textSize="16sp"
+        android:textColor="@color/black"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/divisor_horizontal" />
+
+    <TextView
+        android:id="@+id/meus_tickets"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:text="@string/meus_tickets"
+        android:textColor="@color/black"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.048"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ContainerComponents"
+        tools:ignore="MissingConstraints" />
+
+    <ProgressBar
+        android:id="@+id/loading_spinner"
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"  app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerViewTickets"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:visibility="gone" app:layout_constraintTop_toBottomOf="@id/meus_tickets"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:listitem="@layout/item_ticket" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
