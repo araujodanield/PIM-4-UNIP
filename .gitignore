@@ -1,0 +1,13 @@
+# Pasta de configurações do Visual Studio
+.vs/
+
+# Pastas de compilação
+[Bb]in/
+[Oo]bj/
+
+# Pasta de pacotes (se for o modelo antigo)
+packages/
+
+# Arquivos de usuário
+*.suo
+*.user
