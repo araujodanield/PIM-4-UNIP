@@ -1,3 +1,5 @@
+<img height="15px" src="https://em-content.zobj.net/thumbs/120/twitter/322/flag-brazil_1f1e7-1f1f7.png">[  Leia este documento em português](README.br.md)
+
 # PIMDesk - Corporate Ticket Management Ecosystem (Desktop & Mobile)
 
 Welcome to the repository for **PIMDesk**, a capstone project developed as part of the Systems Analysis and Development degree at Universidade Paulista (UNIP).
@@ -53,9 +55,9 @@ If you want to explore the source code and the interactive visual interfaces:
 
 ## 👨‍💻 Author's
 
-* Daniel Araujo
-* Gustavo Kazuhiro
-* Kaique Costa
-* Lucas Reis
-* Monique Gonçalves
-* Rian Luna
+* <a href="https://www.linkedin.com/in/araujodanield/">Daniel Araujo</a>
+* <a href="https://www.linkedin.com/in/gustavo-aragaki-946622305/">Gustavo Kazuhiro</a>
+* <a href="https://www.linkedin.com/in/ka1qux/">Kaique Costa</a>
+* <a href="https://www.linkedin.com/in/lucasreis-rcs/">Lucas Reis</a>
+* <a href="https://www.linkedin.com/in/monique-goncalvess/">Monique Gonçalves</a>
+* <a href="https://www.linkedin.com/in/rian-luna-5755a9219/">Rian Luna</a>
