@@ -1,4 +1,4 @@
-<img height="15px" src="https://em-content.zobj.net/thumbs/120/twitter/322/flag-united-states-of-america_1f1fa-1f1f8.png">[  Read this document in English](README.md)
+[Read this document in English](README.md)
 
 # PIMDesk - Ecossistema de Gestão Corporativa de Chamados (Desktop & Mobile)
 
@@ -51,3 +51,13 @@ Se você deseja explorar o código-fonte e as interfaces visuais interativas:
 1. **Clone o repositório:**
    ```bash
    git clone [https://github.com/araujodanield/PIM-4-UNIP.git](https://github.com/araujodanield/PIM-4-UNIP.git)
+
+## 👨‍💻 Autores
+
+* <a href="https://www.linkedin.com/in/araujodanield/">Daniel Araujo</a>
+* <a href="https://www.linkedin.com/in/gustavo-aragaki-946622305/">Gustavo Kazuhiro</a>
+* <a href="https://www.linkedin.com/in/ka1qux/">Kaique Costa</a>
+* <a href="https://www.linkedin.com/in/lucasreis-rcs/">Lucas Reis</a>
+* <a href="https://www.linkedin.com/in/monique-goncalvess/">Monique Gonçalves</a>
+* <a href="https://www.linkedin.com/in/rian-luna-5755a9219/">Rian Luna</a>
+
